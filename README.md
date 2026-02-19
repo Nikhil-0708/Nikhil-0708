@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Nikhil 👋
 
-<!--
-**Nikhil-0708/Nikhil-0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Science Student  
+💻 Currently learning C through CS50  
+🚀 Building strong fundamentals in programming  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+- C Programming
+- Problem Solving
+- Data Structures
+- Computer Science Fundamentals
+
+---
+
+## 🛠 Tech Stack
+- C
+- Python (Intermediate)
+- Java (Basics)
+- C++ (Basics)
+
+---
+
+## 📌 Goals for 2026
+- Complete CS50
+- Master Data Structures
+- Build real-world backend projects
+- Crack product-based company internships
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (add your link here)
+www.linkedin.com/in/
+mangalamadhunikhil
+
+
